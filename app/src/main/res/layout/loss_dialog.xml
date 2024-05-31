@@ -18,8 +18,8 @@
                 android:id="@+id/close"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginEnd="4dp"
-                android:layout_marginBottom="440dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginBottom="560dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:srcCompat="@drawable/baseline_close_24" />
@@ -40,9 +40,9 @@
 
             <ImageView
                 android:id="@+id/imageView2"
-                android:layout_width="178dp"
-                android:layout_height="254dp"
-                android:layout_marginBottom="120dp"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_marginBottom="220dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
